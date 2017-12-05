@@ -9,6 +9,7 @@ h1 {
 }
 nav a{
   font-size: 18px;
+  font-weight: normal;
   color: white;
 }
 h2 {
@@ -19,10 +20,10 @@ p {
   font-size: 23px;
   font-weight: bold;
 }
-div.header {
+.header {
   background-image: url("./images/the-flatiron-building.png");
 }
-div.tagline {
+.tagline {
   background-image: url("./images/the-flatiron-building.png");
 }
 .tagline {
