@@ -7,10 +7,12 @@ h1 {
   font-weight;
   color: white;
 }
-nav a{
+nav a {
   font-size: 18px;
-  font-weight: normal;
   color: white;
+}
+nav p {
+  font-weight: normal;
 }
 h2 {
   font-size: 32px;
