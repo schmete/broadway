@@ -4,7 +4,7 @@ body {
 }
 h1 {
   font-size: 70px;
-  font-weight:
+  font-weight;
   color: white;
 }
 nav {
@@ -20,16 +20,16 @@ p {
   font-weight: bold;
 }
 #header {
-  background-image: url("./resources/images/the-flatiron-building.png")
+  background-image: url("./resources/images/the-flatiron-building.png");
 }
 #tagline {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-image: url("./resources/images/the-flatiron-building.png")
+  background-image: url("./resources/images/the-flatiron-building.png");
 }
 .lowernav {
-  font-size: 11px
+  font-size: 11px;
   color: white;
   background-color: dimgray;
 }
